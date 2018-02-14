@@ -1,3 +1,3 @@
 initialization
-initialElements
+calculateChanges
 	^ self changes collect: [ :each | each asIceChangeSet parent: self ]

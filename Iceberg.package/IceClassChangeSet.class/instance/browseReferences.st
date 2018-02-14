@@ -1,3 +1,3 @@
-*Iceberg-UI
+as yet unclassified
 browseReferences
 	self targetClass browseReferences

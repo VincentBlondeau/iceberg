@@ -1,4 +1,4 @@
-*Iceberg-UI
+as yet unclassified
 organizationDescription: tags 
 	^ String streamContents: [ :stream |
 		stream nextPutAll:	'Package tags: '.

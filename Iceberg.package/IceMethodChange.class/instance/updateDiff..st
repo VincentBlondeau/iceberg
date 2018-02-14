@@ -1,4 +1,4 @@
-*Iceberg-UI
+as yet unclassified
 updateDiff: aDiffModel
 	aDiffModel
 		contextClass: self operation targetClass;

@@ -1,4 +1,4 @@
-*Iceberg-UI
+as yet unclassified
 icon
 	^ self classDefinition 
 		ifNotNil: #icon

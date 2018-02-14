@@ -1,3 +1,3 @@
-*Iceberg-Plugin
+as yet unclassified
 pluginManager
 	^ IcePluginManager managerFor: self

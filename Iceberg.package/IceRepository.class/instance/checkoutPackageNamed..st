@@ -1,4 +1,4 @@
-*Iceberg-Tests
+as yet unclassified
 checkoutPackageNamed: packageName
 
 	self workingCopy

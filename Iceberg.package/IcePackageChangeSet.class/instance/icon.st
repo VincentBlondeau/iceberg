@@ -1,4 +1,4 @@
-*Iceberg-UI
+as yet unclassified
 icon
 	^ Smalltalk ui icons iconNamed: 
 		(self hasChanges 

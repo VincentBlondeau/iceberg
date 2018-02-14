@@ -1,4 +1,4 @@
-*Iceberg-UI
+as yet unclassified
 updateDiff: aDiffModel
 	self classDefinition
 		ifNil: [ super updateDiff: aDiffModel ]

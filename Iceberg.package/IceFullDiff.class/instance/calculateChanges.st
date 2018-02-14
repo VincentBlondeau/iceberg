@@ -1,5 +1,5 @@
 initialization
-initialElements
+calculateChanges
 	^ self repository workingCopy loadedPackages
 		collect: [ :package | | icepackage |
 			icepackage := IcePackage 
